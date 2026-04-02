@@ -17,5 +17,5 @@ pip install -U mlx-lm
 ~~~
 # There are mlx-lm community in huggingface where providing AI models for mlx-lm specifically
 # Pick your model with command below to start the mlx-lm server, it will download the model automatically.
-python -m mlx_lm.server --model mlx-community/Qwen2.5-14B-Instruct-4bit --port 8080
+python -m mlx_lm.server --model mlx-community/Qwen3.5-27B-Claude-4.6-Opus-Distilled-MLX-4bit --port 8080
 ~~~
